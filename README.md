@@ -49,19 +49,45 @@ Research Interests: AI Security, Industrial AI, Automotive Cybersecurity
 
 ---
 
-### 3. 🏭 Industrial AI Anomaly Detection
+### 3. 🛡️ AI-Based Intrusion Detection System (IDS) using Domain Transfer
+**[산업 이상 탐지 알고리즘을 보안 로그에 적용]**
 
-**[PCB 결함 검출 및 산업용 객체 인식]**
+- **Description:** 산업용 제조 공정 이상 탐지 로직을 일반 보안 로그 모니터링에 적용한 프로젝트입니다. 대규모 네트워크 트래픽 데이터를 학습하여 정상(BENIGN)과 공격(PortScan)을 분류합니다.
+- **Key Tech:** `Deep Learning`, `Domain Transfer`, `Feature Engineering`, `CAN/Network Analysis`
 
-* **Description:** CNN 기반의 산업용 외관 검사 및 결함 자동 분류 시스템입니다.
-* **Key Tech:** `CNN`, `Data Augmentation`, `OpenCV`
+---
 
 **📊 Key Performance**
+- **Accuracy:** 99.99%
+- **F1 Score / Precision / Recall:** 검증 데이터 기반
+- **Macro F1-Score:** 0.99
 
-* **Accuracy:** 93.4%
-* **Validation Accuracy:** 91.8%
-* **Training Epochs:** 25
-* **Inference Time:** Real-time optimized
+**🖼 Visualization**
+
+#### Detection Counts
+대규모 트래픽 로그에서 정상(BENIGN)과 공격(PortScan)으로 분류된 건수입니다.
+
+
+![Port Analysis](https://private-user-images.githubusercontent.com/260429055/559149939-9ee8ffa4-d05f-409d-85ad-2752285796c5.png)
+
+---
+
+#### Key Evidence & Threat Intelligence
+공격 벡터와 주요 탐지 단서를 분석하여 AI 모델의 해석 가능성을 확보했습니다.
+
+**Primary Attack Vectors (Target Ports)**
+- Port 53 (DNS) – 약 40,000회 공격 시도  
+- Port 443 (HTTPS)  
+- Port 80 (HTTP)
+
+**Top 3 Detection Clues (Feature Importance)**
+- Feature Index 52 – 10.99% 기여  
+- Feature Index 46 – 9.29% 기여  
+- Feature Index 6 – 8.48% 기여
+
+## 🔮 Future Work & Goals
+- **Smart Mobility Security:** CAN Bus 및 차량 센서 데이터 이상 탐지로 확장  
+- **Cross-Industry Expansion:** 차세대 자율주행 시스템 및 글로벌 산업 IoT 플랫폼 보안 강화
 
 **Visualization**
 

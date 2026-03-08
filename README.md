@@ -51,13 +51,23 @@
 
 
 
----### ⚡ Edge Deployment & Model Optimization
-To ensure real-time security in vehicle environments, I optimized the model for edge devices using **TFLite Quantization**.
+---
 
-* **Model Size Reduction:** Compressed from **0.06 MB** to **0.0077 MB** (approx. **87% reduction**).
-* **Ultra-Low Latency:** Achieved an average inference time of **0.0077 ms (7.7 μs)** per message.
-* **Throughput:** Capable of processing over **130,000 CAN messages per second**, easily exceeding the real-time requirements of high-speed CAN buses (typically <10ms).
-* **Key Implication:** Proven feasibility for deployment on resource-constrained ECUs or Edge devices (e.g., Raspberry Pi, Jetson Nano) for immediate intrusion response.
+### ⚡ Edge Deployment & Model Optimization (Real-time Efficiency)
+To meet the strict real-time requirements of in-vehicle networks (CAN bus), I implemented model optimization techniques using **TensorFlow Lite (TFLite) Post-Training Quantization**.
+
+*   **Model Size Reduction:** 
+    *   Original Model: **0.06 MB**
+    *   Optimized Model: **0.0077 MB** (approx. **87.2% reduction**)
+*   **Inference Performance:** 
+    *   Average Latency: **0.0077 ms (7.7 μs)** per message.
+    *   Throughput: Capable of processing over **130,000 messages per second**.
+*   **Key Implication:** 
+    *   The model achieves ultra-low latency, far exceeding the real-time requirements of high-speed CAN (typically <10ms latency required).
+    *   Proven feasibility for deployment on resource-constrained automotive ECUs or Edge devices (e.g., Raspberry Pi, Jetson Nano).
+
+---
+
 
 
 ## 🔮 Future Work & Goals

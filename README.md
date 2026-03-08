@@ -42,8 +42,6 @@ Research Interests: AI Security, Industrial AI, Automotive Cybersecurity
 * **F1 Score:** 0.97
 * **Detection Accuracy:** 96%
 
-**Visualization**
-
 <img width="556" height="431" alt="559255233-2885f2b3-b68f-46db-bfd9-d4a12b698f2f" src="https://github.com/user-attachments/assets/23e28482-4681-491b-8e53-81d0d3eba36b" />
 
 

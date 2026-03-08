@@ -1,2 +1,3 @@
-# -AI-Network-Security-Research-Portfolio
-AI Security and Industrial Anomaly Detection Research Portfolio
+# 🚀 AI Security Research Portfolio
+
+AI Security | Industrial AI | Automotive Cybersecurity

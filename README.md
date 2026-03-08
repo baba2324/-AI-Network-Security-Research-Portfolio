@@ -41,7 +41,7 @@ Detection of abnormal CAN Bus traffic to identify potential vehicle cyber attack
 
 **Model Visualization**
 
-<img width="556" height="431" alt="559255233-2885f2b3-b68f-46db-bfd9-d4a12b698f2f" src="https://github.com/user-attachments/assets/2fe87720-ed38-41ac-8de3-4f8cd5acc473" />
+<img width="556" height="431" alt="559255233-2885f2b3-b68f-46db-bfd9-d4a12b698f2f" src="https://github.com/user-attachments/assets/5732464b-2606-4e7f-9f9c-ac3be24a181e" />
 
 
 ---
@@ -61,7 +61,8 @@ CNN-based defect detection model for industrial visual inspection.
 
 **Training Visualization**
 
-<img width="1189" height="1190" alt="559149939-9ee8ffa4-d05f-409d-85ad-2752285796c5" src="https://github.com/user-attachments/assets/69922956-3255-45d2-a147-7dd14b0ff45e" />
+<img width="1189" height="1190" alt="559149939-9ee8ffa4-d05f-409d-85ad-2752285796c5" src="https://github.com/user-attachments/assets/a28425fa-b463-4812-9cfd-5cc3dec54908" />
+
 
 
 ---

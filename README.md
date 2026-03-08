@@ -1,3 +1,5 @@
+Research Interests: AI Security, Industrial AI, Automotive Cybersecurity
+
 # 🚀 AI & Network Security Research Portfolio
 
 > **Notice:** 본 저장소는 핵심 로직 보호를 위해 소스 코드를 마스킹 처리한 **외부 공개용 포트폴리오**입니다. 상세 코드는 비공개(Private) 저장소에서 관리 중입니다.

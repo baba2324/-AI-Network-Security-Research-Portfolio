@@ -49,7 +49,16 @@
 
 <img width="1189" height="1190" alt="Domain Transfer IDS Detection" src="https://github.com/user-attachments/assets/0bb4db5d-e77e-4b3f-bb88-478157446754">
 
----
+
+
+---### ⚡ Edge Deployment & Model Optimization
+To ensure real-time security in vehicle environments, I optimized the model for edge devices using **TFLite Quantization**.
+
+* **Model Size Reduction:** Compressed from **0.06 MB** to **0.0077 MB** (approx. **87% reduction**).
+* **Ultra-Low Latency:** Achieved an average inference time of **0.0077 ms (7.7 μs)** per message.
+* **Throughput:** Capable of processing over **130,000 CAN messages per second**, easily exceeding the real-time requirements of high-speed CAN buses (typically <10ms).
+* **Key Implication:** Proven feasibility for deployment on resource-constrained ECUs or Edge devices (e.g., Raspberry Pi, Jetson Nano) for immediate intrusion response.
+
 
 ## 🔮 Future Work & Goals
 - **Smart Mobility Security:** CAN Bus 및 차량 센서 데이터 이상 탐지로 확장  

@@ -90,13 +90,6 @@ CNN-based defect detection model for industrial visual inspection.
 
 ---
 
-## ✉️ Contact
-
-GitHub  
-https://github.com/baba2324
-
----
-
 ## 📫 Contact
 
 GitHub  

@@ -68,9 +68,10 @@ Research Interests: AI Security, Industrial AI, Automotive Cybersecurity
 대규모 트래픽 로그에서 정상(BENIGN)과 공격(PortScan)으로 분류된 건수입니다.
 
 
-![Port Analysis](https://private-user-images.githubusercontent.com/260429055/559149939-9ee8ffa4-d05f-409d-85ad-2752285796c5.png)
+**Visualization**
 
----
+<img width="1189" height="1190" alt="559149939-9ee8ffa4-d05f-409d-85ad-2752285796c5" src="https://github.com/user-attachments/assets/0bb4db5d-e77e-4b3f-bb88-478157446754" />
+
 
 #### Key Evidence & Threat Intelligence
 공격 벡터와 주요 탐지 단서를 분석하여 AI 모델의 해석 가능성을 확보했습니다.
@@ -89,13 +90,6 @@ Research Interests: AI Security, Industrial AI, Automotive Cybersecurity
 - **Smart Mobility Security:** CAN Bus 및 차량 센서 데이터 이상 탐지로 확장  
 - **Cross-Industry Expansion:** 차세대 자율주행 시스템 및 글로벌 산업 IoT 플랫폼 보안 강화
 
-**Visualization**
-
-<img width="1189" height="1190" alt="559149939-9ee8ffa4-d05f-409d-85ad-2752285796c5" src="https://github.com/user-attachments/assets/0bb4db5d-e77e-4b3f-bb88-478157446754" />
-
-
-
----
 
 ## 🛠️ Technical Skills
 

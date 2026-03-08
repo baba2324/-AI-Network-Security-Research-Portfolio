@@ -28,6 +28,7 @@
 - **Detection Accuracy:** 96%
 
 **🖼 Visualization**
+
 <img width="556" height="431" alt="AI Car Hacking Detection" src="https://github.com/user-attachments/assets/23e28482-4681-491b-8e53-81d0d3eba36b">
 
 ---
@@ -44,6 +45,7 @@
 - **Macro F1-Score:** 0.99
 
 **🖼 Visualization**
+
 <img width="1189" height="1190" alt="Domain Transfer IDS Detection" src="https://github.com/user-attachments/assets/0bb4db5d-e77e-4b3f-bb88-478157446754">
 
 ---

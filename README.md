@@ -95,5 +95,12 @@ CNN-based defect detection model for industrial visual inspection.
 GitHub  
 https://github.com/baba2324
 
-Email  
-(Insert Email Address)
+---
+
+## 📫 Contact
+
+GitHub  
+https://github.com/baba2324
+
+Research Interest  
+AI Security | Industrial AI | Automotive Cybersecurity

@@ -11,6 +11,7 @@
 - **Detection Accuracy:** 94%
 
 **🖼 Visualization**
+
 ---<img width="719" height="560" alt="Semiconductor Anomaly Detection" src="https://github.com/user-attachments/assets/16fecddb-0540-4a33-bb34-ff6235679390">
 
 ---

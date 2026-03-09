@@ -114,7 +114,8 @@ Detection Performance
 공격 탐지에서 Recall 1.00을 기록했습니다.
 
 
-<img width="1189" height="1190" alt="Domain Transfer IDS Detection" src="https://github.com/user-attachments/assets/0bb4db5d-e77e-4b3f-bb88-478157446754">
+<img width="556" height="431" alt="17730396190463788999305869072441" src="https://github.com/user-attachments/assets/26e0d8df-203f-4aa4-b46d-05a1023acbd0" />
+
 
 Edge Optimization
 
@@ -180,8 +181,8 @@ Performance
 - Accuracy: 96%
 - F1 Score: 0.97
 
-  
-<img width="1189" height="1190" alt="Domain Transfer IDS Detection" src="https://github.com/user-attachments/assets/0bb4db5d-e77e-4b3f-bb88-478157446754">
+<img width="556" height="431" alt="17730396190463788999305869072441" src="https://github.com/user-attachments/assets/cee0ee65-cc93-48d3-aa91-81d8519a91fa" />
+
 
 Edge Optimization
 

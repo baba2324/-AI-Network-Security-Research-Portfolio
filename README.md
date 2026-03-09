@@ -177,7 +177,6 @@ AI-Car-Hacking-Detection
 
 Intrusion Detection System for CAN Bus
 
-Dataset
 Dataset: HCRL Car-Hacking Dataset (Korea University)
 
 Performance

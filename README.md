@@ -77,7 +77,8 @@ Key Challenges
 이를 통해 산업 데이터 기반 모델을 보안 데이터 환경으로 이식 가능한 구조로 개선했습니다.
 
 
-<img width="556" height="431" alt="AI Car Hacking Detection" src="https://github.com/user-attachments/assets/23e28482-4681-491b-8e53-81d0d3eba36b">
+<img width="1189" height="1190" alt="17730397607457093785105491626063" src="https://github.com/user-attachments/assets/06f2ae0a-6acb-47b3-81af-2151c7e4ae7c" />
+
 
 🏆 3. AI-Car-Hacking-Detection (IDS)
 

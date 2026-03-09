@@ -10,8 +10,13 @@
 
 💡 About Me
 
-저는 1학년 겨울방학동동안 순천향대학교 sw중심대학 사업단과 브레인웍스공동으로 설계한 산업ai전문가 양성과정 프로그램에서(2주60시간)
-습득한 이상 탐지(Anomaly Detection) 기술을 산업 데이터에서 사이버 보안 및 차량 보안까지 확장 연구하고 있는 엔지니어입니다.
+## About Me
+
+저는 1학년 겨울방학 동안 순천향대학교 SW중심대학 사업단과 브레인웍스가 공동 설계한 
+산업 AI 전문가 양성과정(2주, 60시간)을 통해 이상 탐지(Anomaly Detection) 기술을 학습했습니다.
+
+이 과정에서 습득한 산업 데이터 기반 이상 탐지 기술을 바탕으로 
+현재는 산업 데이터 분석에서 출발해 사이버 보안과 차량 보안 영역까지 확장하는 연구를 진행하고 있습니다.
 
 제 연구의 핵심 목표는 대규모 데이터 환경에서도 안정적으로 동작하는 경량 AI 탐지 시스템을 만드는 것입니다.
 
@@ -139,16 +144,13 @@ Visualization
 
 🇺🇸 English Version
 
-About Me
+## About Me
 
-I am an undergraduate engineer researching anomaly detection systems across multiple domains, including:
+I am an engineer exploring anomaly detection across multiple domains, including industrial data, cybersecurity, and automotive security.
 
-- Industrial manufacturing data
-- Network security logs
-- In-vehicle CAN communication
+During my freshman winter break, I completed a 60-hour Industrial AI Specialist Training Program jointly designed by the Soonchunhyang University SW-Centered University Program and Brainworks.
 
-My research focuses on building lightweight AI detection systems that can operate in real-time environments and edge devices.
-
+Building on anomaly detection techniques learned from industrial datasets, I am currently expanding this research toward cybersecurity log analysis and automotive CAN bus intrusion detection.
 ---
 
 Industrial AI Project

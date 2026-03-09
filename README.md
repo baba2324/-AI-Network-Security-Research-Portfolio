@@ -1,4 +1,4 @@
-🚀 [Name] | Security & Edge AI Engineer
+🚀 [Joonyong LEE] | Security & Edge AI Engineer
 
 "Building anomaly detection systems from Industrial AI to Cybersecurity and In-Vehicle Security."
 

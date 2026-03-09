@@ -150,10 +150,11 @@ I am an engineer exploring anomaly detection across multiple domains, including 
 
 During my freshman winter break, I completed a 60-hour Industrial AI Specialist Training Program jointly designed by the Soonchunhyang University SW-Centered University Program and Brainworks.
 
-Building on anomaly detection techniques learned from industrial datasets, I am currently expanding this research toward cybersecurity log analysis and automotive CAN bus intrusion detection.
+Building on anomaly detection techniques learned from industrial datasets, 
+I am expanding this research toward cybersecurity log analysis and automotive CAN bus intrusion detection.
 ---
 
-Industrial AI Project
+Industrial AI Anomaly Detection
 
 Semiconductor Process Anomaly Detection
 
@@ -177,7 +178,7 @@ AI-Car-Hacking-Detection
 Intrusion Detection System for CAN Bus
 
 Dataset
-Korea University HCRL Car-Hacking Dataset
+Dataset: HCRL Car-Hacking Dataset (Korea University)
 
 Performance
 

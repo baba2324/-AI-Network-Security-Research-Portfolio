@@ -84,6 +84,43 @@ Key Challenges
 
 <img width="1189" height="1190" alt="17730397607457093785105491626063" src="https://github.com/user-attachments/assets/06f2ae0a-6acb-47b3-81af-2151c7e4ae7c" />
 
+# 🛡️ AI-Powered Real-Time Network Defense System
+
+This project implements an intelligent security layer that monitors and protects network traffic in real-time using machine learning.
+
+## 🚀 Key Features (English)
+* **Real-time Monitoring:** Analyzes incoming network packets at 0.1s intervals.
+* **ML-Based Detection:** Utilizes a trained `Random Forest` model to classify legitimate vs. malicious traffic.
+* **Efficient Resource Usage:** Low CPU/RAM overhead (under 1%) for continuous 24/7 background operation.
+* **One-Click Deployment:** Seamless execution via desktop shortcut integratio
+
+# 🛡️ AI-Powered Real-Time Network Defense System
+
+This project implements an intelligent security layer that monitors and protects network traffic in real-time using machine learning.
+
+## 🚀 Key Features (English)
+* **Real-time Monitoring:** Analyzes incoming network packets at 0.1s intervals.
+* **ML-Based Detection:** Utilizes a trained `Random Forest` model to classify legitimate vs. malicious traffic.
+* **Efficient Resource Usage:** Low CPU/RAM overhead (under 1%) for continuous 24/7 background operation.
+* **One-Click Deployment:** Seamless execution via desktop shortcut integration.
+
+---
+
+## 🛡️ AI 기반 실시간 네트워크 방어 시스템 (국문)
+
+본 프로젝트는 머신러닝을 활용하여 네트워크 트래픽을 실시간으로 감시하고 보호하는 지능형 보안 레이어를 구현합니다.
+
+### 1. 주요 기능
+* **실시간 패킷 감시:** 0.1초 단위로 유입되는 네트워크 패킷을 전수 조사합니다.
+* **ML 기반 탐지:** 학습된 `Random Forest` 모델(`pkl`)을 통해 정상 접속과 공격 시도를 즉각 판별합니다.
+* **저자원 고효율:** 시스템 점유율을 1% 미만으로 유지하여 성능 저하 없이 24시간 상시 가동이 가능합니다.
+* **사용자 편의성:** 배치 파일과 바로가기 아이콘을 통해 누구나 손쉽게 방어막을 가동할 수 있습니다.
+
+### 🛠️ Technology Stack
+- **Language:** Python 3.x
+- **Library:** Scikit-learn, Pandas, Joblib, Scapy
+- **Model:** Random Forest Classifier
+
 
 🏆 3. AI-Car-Hacking-Detection (IDS)
 

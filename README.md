@@ -80,34 +80,21 @@ Soonchunhyang University Industrial AI Expert Program
 - Feature Dimension Mismatch → Zero Padding
 - 데이터 불균형 문제 대응
 
----
-
 # 🛡️ AI-Powered Real-Time Network Defense System
 
-이 프로젝트는 머신러닝을 활용하여  
-네트워크 트래픽을 **실시간으로 감시하고 보호하는 보안 시스템**입니다.
+이 프로젝트는 머신러닝을 활용하여 네트워크 트래픽을 실시간으로 감시하고 보호하는 보안 시스템입니다.
 
-### Key Features
+## 🚀 Key Features
+* **Real-time Monitoring:** 0.1s packet analysis (실시간 패킷 분석)
+* **ML-based intrusion detection:** AI 기반 침입 탐지
+* **Low resource usage:** CPU/RAM < 1% (저자원 고효율 설계)
+* **One-click deployment:** 원클릭 방어막 가동
 
-- Real-time Monitoring (0.1s packet analysis)
-- ML-based intrusion detection
-- Low resource usage (CPU/RAM <1%)
-- One-click deployment
+## 🛠️ Technology Stack
+* **Language:** Python
+* **Libraries:** Scikit-learn, Pandas, Scapy
+* **Model:** Random Forest Classifier
 
-### Technology Stack
-
-Language
-- Python
-
-Libraries
-- Scikit-learn
-- Pandas
-- Scapy
-
-Model
-- Random Forest Classifier
-
----
 
 # 🏆 3️⃣ AI-Car-Hacking-Detection (IDS)
 

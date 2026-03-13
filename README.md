@@ -150,8 +150,8 @@ Korea University **HCRL Car-Hacking Dataset**을 활용하여
 500,000건 이상의 차량 통신 데이터를 대상으로 실험을 수행했습니다.
 
 ![Car Hacking Detection]
-<img width="556" height="431" alt="17733483773706326758692551498192" src="https://github.com/user-attachments/assets/754169d4-8c65-40d6-b045-cf663377b0f5" />
 
+<img width="556" height="431" alt="17733483773706326758692551498192" src="https://github.com/user-attachments/assets/754169d4-8c65-40d6-b045-cf663377b0f5" />
 
 ## Edge Optimization
 

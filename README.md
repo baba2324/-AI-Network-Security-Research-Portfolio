@@ -158,8 +158,8 @@ Korea University **HCRL Car-Hacking Dataset**을 활용하여
 실제 차량 환경을 고려하여 **초경량 모델 구조**를 설계했습니다.
 
 ### Lightweight MLP Architecture
-
-    16 → 8 → 1
+ 
+16 → 8 → 1
 
 ### Optimization
 
@@ -265,6 +265,7 @@ Korea University **HCRL Car-Hacking Dataset**
 - F1 Score: 0.97
 
 ![Car Hacking Detection] 
+
 <img width="556" height="431" alt="17733483773706326758692551498192" src="https://github.com/user-attachments/assets/754169d4-8c65-40d6-b045-cf663377b0f5" />
 
 ## Edge Optimization

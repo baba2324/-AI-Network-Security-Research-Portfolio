@@ -48,7 +48,8 @@ Soonchunhyang University Industrial AI Expert Program
 - F1 Score: 0.91
 - Accuracy: 94%
 
-  <img width="719" height="560" alt="Semiconductor Anomaly Detection" src="https://github.com/user-attachments/assets/16fecddb-0540-4a33-bb34-ff6235679390">
+![Semiconductor Anomaly Detection]
+<img width="719" height="560" alt="Semiconductor Anomaly Detection" src="https://github.com/user-attachments/assets/16fecddb-0540-4a33-bb34-ff6235679390">
 
 ### Troubleshooting
 

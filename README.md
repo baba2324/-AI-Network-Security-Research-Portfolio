@@ -96,6 +96,52 @@ Soonchunhyang University Industrial AI Expert Program
 * **Library:** Scikit-learn, Scapy, Pandas
 * **Deployment:** Desktop Integrated Defense System
 
+
+# 🏆 3️⃣ AI-Car-Hacking-Detection (IDS)
+
+### In-Vehicle CAN Bus Intrusion Detection
+
+Korea University **HCRL Car-Hacking Dataset**을 활용하여  
+차량 내부 CAN 통신 공격을 탐지하는 딥러닝 기반 IDS를 구축했습니다.
+
+### Attack Types
+
+- DoS
+- Fuzzy
+- Spoofing
+
+### Performance
+
+- Recall: 1.00
+- Precision: 0.95
+- F1 Score: 0.97
+- Accuracy: 96%
+
+500,000건 이상의 차량 통신 데이터를 대상으로 실험을 수행했습니다.
+
+
+<img width="556" height="431" alt="17733483773706326758692551498192" src="https://github.com/user-attachments/assets/754169d4-8c65-40d6-b045-cf663377b0f5" />
+
+
+
+
+### Edge Optimization
+
+실제 차량 환경을 고려하여 초경량 모델 구조를 설계했습니다.
+
+MLP Architecture
+
+```
+16 → 8 → 1
+```
+
+Optimization
+
+- Int8 Quantization
+- Model Size: 0.0077MB (~7KB)
+
+저사양 MCU 환경에서도 실행 가능한 IDS 모델 구조입니다.
+
 # [Core Tech] AI Deep Learning Integrated Security System
 ## AI 딥러닝 기반 실시간 통합 보안 시스템
 
@@ -143,54 +189,6 @@ Soonchunhyang University Industrial AI Expert Program
 ### 🚀 차별점 (Key Differentiators)
 1. **Professionalism:** 전문적인 버전 관리 도구를 사용한 체계적인 기술 축적.
 2. **Protection:** 독자 개발한 알고리즘의 보안성을 강화한 프라이빗 자산 운영.
-
-
-# 🏆 3️⃣ AI-Car-Hacking-Detection (IDS)
-
-### In-Vehicle CAN Bus Intrusion Detection
-
-Korea University **HCRL Car-Hacking Dataset**을 활용하여  
-차량 내부 CAN 통신 공격을 탐지하는 딥러닝 기반 IDS를 구축했습니다.
-
-### Attack Types
-
-- DoS
-- Fuzzy
-- Spoofing
-
-### Performance
-
-- Recall: 1.00
-- Precision: 0.95
-- F1 Score: 0.97
-- Accuracy: 96%
-
-500,000건 이상의 차량 통신 데이터를 대상으로 실험을 수행했습니다.
-
-
-<img width="556" height="431" alt="17733483773706326758692551498192" src="https://github.com/user-attachments/assets/754169d4-8c65-40d6-b045-cf663377b0f5" />
-
-
-
-
-### Edge Optimization
-
-실제 차량 환경을 고려하여 초경량 모델 구조를 설계했습니다.
-
-MLP Architecture
-
-```
-16 → 8 → 1
-```
-
-Optimization
-
-- Int8 Quantization
-- Model Size: 0.0077MB (~7KB)
-
-저사양 MCU 환경에서도 실행 가능한 IDS 모델 구조입니다.
-
----
 
 # 🇺🇸 English Version
 

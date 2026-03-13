@@ -205,6 +205,7 @@ Building on anomaly detection techniques learned from industrial datasets, I exp
 
 ![Semiconductor Anomaly Detection]
 <img width="719" height="560" alt="Semiconductor Anomaly Detection" src="https://github.com/user-attachments/assets/16fecddb-0540-4a33-bb34-ff6235679390">
+
 ### Model
 
 - LSTM Autoencoder

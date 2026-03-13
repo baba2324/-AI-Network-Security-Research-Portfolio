@@ -266,3 +266,44 @@ Korea University **HCRL Car-Hacking Dataset**
 ## Edge Optimization
 
 ### Lightweight MLP Architecture
+
+16 → 8 → 1
+
+### Optimization
+
+- Quantized Int8 model
+- Model size **~7KB**
+
+Designed for **low-resource embedded vehicle environments.**
+
+---
+
+# Tech Stack
+
+### AI / ML
+
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- TensorFlow Lite
+
+### Security
+
+- CAN Protocol
+- Intrusion Detection Systems
+- Network Security Logs
+
+### Programming
+
+- Python
+- C / C++
+
+---
+
+# 📫 Contact & Links
+
+**GitHub**  
+https://github.com/baba2324
+
+**Research Interest**  
+AI Security | Industrial AI | Automotive Cybersecurity

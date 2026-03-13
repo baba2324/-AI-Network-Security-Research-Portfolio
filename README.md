@@ -158,22 +158,15 @@ Korea University **HCRL Car-Hacking Dataset**을 활용하여
 실제 차량 환경을 고려하여 **초경량 모델 구조**를 설계했습니다.
 
 ### Lightweight MLP Architecture
- 
+
 16 → 8 → 1
 
 ### Optimization
 
 - Int8 Quantization
-- Model Size: **~7KB**
+- Model Size: ~7KB
 
-저사양 **MCU 환경에서도 실행 가능한 IDS 모델 구조 입니다**
-
-### Optimization
-
-- Int8 Quantization
-- Model Size: **~7KB**
-
-저사양 **MCU 환경에서도 실행 가능한 IDS 모델 구조**입니다.
+저사양 **MCU 환경에서도 실행 가능한 IDS 모델 구조입니다.**
 
 ---
 
@@ -196,6 +189,15 @@ Building on anomaly detection techniques learned from industrial datasets, I exp
 # Industrial AI Anomaly Detection
 
 ## Semiconductor Process Anomaly Detection
+
+
+### Troubleshooting
+
+During the initial training phase, the model showed **overfitting behavior**, incorrectly classifying some anomaly samples as normal data.
+
+To stabilize the training process and improve generalization, **L1 Regularization** was applied to the model.
+
+This adjustment helped reduce overfitting and improved anomaly detection robustness.
 
 ### Performance
 

@@ -203,7 +203,8 @@ Building on anomaly detection techniques learned from industrial datasets, I exp
 - Recall: 0.93
 - F1 Score: 0.91
 
-![Semiconductor Anomaly Detection]<img width="719" height="560" alt="Semiconductor Anomaly Detection" src="https://github.com/user-attachments/assets/16fecddb-0540-4a33-bb34-ff6235679390">
+![Semiconductor Anomaly Detection]
+<img width="719" height="560" alt="Semiconductor Anomaly Detection" src="https://github.com/user-attachments/assets/16fecddb-0540-4a33-bb34-ff6235679390">
 ### Model
 
 - LSTM Autoencoder
@@ -221,7 +222,8 @@ Applying anomaly detection techniques from **industrial AI to cybersecurity logs
 - High-dimensional security log analysis
 - Robust anomaly detection
 
-![Network Security Graph]<img width="1189" height="1190" alt="17730397607457093785105491626063" src="https://github.com/user-attachments/assets/06f2ae0a-6acb-47b3-81af-2151c7e4ae7c" />
+![Network Security Graph]
+<img width="1189" height="1190" alt="17730397607457093785105491626063" src="https://github.com/user-attachments/assets/06f2ae0a-6acb-47b3-81af-2151c7e4ae7c" />
 
 
 ---
@@ -261,7 +263,8 @@ Korea University **HCRL Car-Hacking Dataset**
 - Accuracy: 96%
 - F1 Score: 0.97
 
-![Car Hacking Detection] <img width="556" height="431" alt="17733483773706326758692551498192" src="https://github.com/user-attachments/assets/754169d4-8c65-40d6-b045-cf663377b0f5" />
+![Car Hacking Detection] 
+<img width="556" height="431" alt="17733483773706326758692551498192" src="https://github.com/user-attachments/assets/754169d4-8c65-40d6-b045-cf663377b0f5" />
 
 ## Edge Optimization
 

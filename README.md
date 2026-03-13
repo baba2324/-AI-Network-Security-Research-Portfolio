@@ -96,6 +96,54 @@ Soonchunhyang University Industrial AI Expert Program
 * **Library:** Scikit-learn, Scapy, Pandas
 * **Deployment:** Desktop Integrated Defense System
 
+# [Core Tech] AI Deep Learning Integrated Security System
+## AI 딥러닝 기반 실시간 통합 보안 시스템
+
+### 💻 핵심 기술 (Core Technologies)
+
+* **Real-time Traffic Analysis (실시간 트래픽 분석)**
+    * 파이썬을 활용하여 네트워크 패킷을 실시간 모니터링하고 위협 요소를 즉각 식별합니다.
+* **Deep Learning Model Integration (AI 모델 통합)**
+    * `Keras/TensorFlow` 기반의 딥러닝 모델(`agent_defender`)을 연동하여 지능형 침입 탐지 시스템(IDS)을 구현했습니다.
+* **Multi-Process Automation (멀티 프로세스 자동화)**
+    * 배치 스크립트(`.bat`)를 통해 여러 보안 엔진을 동시에 기동하고 시스템 권한을 자동으로 제어합니다.
+
+### 🚀 차별점 (Key Differentiators)
+1. **Intelligence:** 단순 규칙 기반이 아닌 AI 학습 모델에 의한 패턴 인식 탐지.
+2. **Stability:** 경로 인식 오류 및 권한 충돌 문제를 해결한 안정적인 시스템 환경 설계.
+
+# [Core Tech] Windows Environment System Infrastructure Automation
+## 윈도우 인프라 최적화 및 업무 자동화 시스템
+
+### 💻 핵심 기술 (Core Technologies)
+
+* **Process Lifecycle Management (프로세스 관리)**
+    * 시스템 자원 효율화를 위한 백그라운드 프로세스 제어 및 최적화 기술.
+* **Automated Deployment (자동화 배포)**
+    * 환경 설정 및 종속성 문제를 원클릭으로 해결하는 자동 실행 스크립트 개발.
+* **Troubleshooting (문제 해결 및 대응)**
+    * 시스템 런타임 오류(Permission, Path error) 분석 및 권한 최적화 가이드 수립.
+
+### 🚀 차별점 (Key Differentiators)
+1. **Efficiency:** 복잡한 수동 작업을 자동화하여 시스템 관리 효율성 200% 증대.
+2. **Reliability:** 다양한 윈도우 환경에서도 즉시 구동 가능한 이식성 확보.
+
+# [Core Tech] Software IP Protection & Version Control
+## 소프트웨어 지식재산권 보호 및 버전 관리
+
+### 💻 핵심 기술 (Core Technologies)
+
+* **Git-based Version Control (형상 관리)**
+    * `GitHub Private Repository`를 활용하여 핵심 소스 코드의 형상 관리 및 보안 유지.
+* **License Compliance (라이선스 준수)**
+    * 소프트웨어 저작권 보호를 위한 라이선스 정책 적용 및 독자적 기술 자산화.
+* **Security Asset Management (보안 자산 관리)**
+    * 비공개 업로드와 접근 권한 제어를 통한 핵심 알고리즘 유출 방지.
+
+### 🚀 차별점 (Key Differentiators)
+1. **Professionalism:** 전문적인 버전 관리 도구를 사용한 체계적인 기술 축적.
+2. **Protection:** 독자 개발한 알고리즘의 보안성을 강화한 프라이빗 자산 운영.
+
 
 # 🏆 3️⃣ AI-Car-Hacking-Detection (IDS)
 

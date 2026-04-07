@@ -40,7 +40,7 @@ Building anomaly detection systems from Industrial AI to Cybersecurity and In-Ve
 ## 📐 핵심 기술 1: 고순도 데이터 전처리 8단계 파이프라인
 > **반도체 정밀 데이터 정제 노하우를 보안 데이터셋에 이식하여 데이터 무결성 확보.**
 > 
-<img width="719" height="560" alt="17755522278586062199456403906461" src="https://github.com/user-attachments/assets/c6218f2b-6cc9-487a-b56b-c9bc421687f5" />
+![1775552836286](https://github.com/user-attachments/assets/3c1e20b8-f88c-47a4-995f-5b7860064484)
 
 
 *(산업 데이터에서 경험한 차원 Mismatch 및 결측치 해결 기법을 보안 데이터에 완벽 적용)*

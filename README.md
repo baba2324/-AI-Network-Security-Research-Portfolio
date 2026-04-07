@@ -29,7 +29,7 @@ Building anomaly detection systems from Industrial AI to Cybersecurity and In-Ve
 ## 🏗️ 핵심 기술 기반: 산업 AI 전문가 반도체 이상 탐지 연구 (성과물)
 > **제조 공정의 미세 결함을 찾아내는 비지도 학습(Unsupervised Learning) 알고리즘 연구 및 구현**
 
-<img width="532" height="451" alt="547102175-491433cd-7f18-494c-8ed8-78db890e6784" src="https://github.com/user-attachments/assets/2a7f51c0-1e7e-4009-be1f-5b8470281b2c" />
+-5b8470281b2c" />
 
 > *설명: 산업 AI 프로젝트 결과물. 실제 결함(69건)을 정밀하게 식별해내며 산업 현장 수준의 모델 성능 확보.*
 
@@ -39,8 +39,9 @@ Building anomaly detection systems from Industrial AI to Cybersecurity and In-Ve
 
 ## 📐 핵심 기술 1: 고순도 데이터 전처리 8단계 파이프라인
 > **반도체 정밀 데이터 정제 노하우를 보안 데이터셋에 이식하여 데이터 무결성 확보.**
+> 
+<img width="719" height="560" alt="17755522278586062199456403906461" src="https://github.com/user-attachments/assets/c6218f2b-6cc9-487a-b56b-c9bc421687f5" />
 
-<img width="1927" height="1042" alt="1775551302829" src="https://github.com/user-attachments/assets/520e40e9-4110-4e56-83f7-7400d9abc37d" />
 
 *(산업 데이터에서 경험한 차원 Mismatch 및 결측치 해결 기법을 보안 데이터에 완벽 적용)*
 
@@ -58,8 +59,8 @@ Building anomaly detection systems from Industrial AI to Cybersecurity and In-Ve
 - **Performance:** **Accuracy 99.99%** (PortScan 공격 탐지 특화)
 - **특징:** Scapy 패킷 분석과 Windows API를 연동한 **실시간 공격 IP 자동 차단 시스템** 구현.
 
+<img width="1189" height="1190" alt="17755523006495825623934927154730" src="https://github.com/user-attachments/assets/04f1795c-5af0-474d-9a69-3278112c1a50" />
 
-<img width="1189" height="1190" alt="17755516995672928935286921939997" src="https://github.com/user-attachments/assets/42865896-0fba-497f-b9fc-a359762b3777" />
 
 ### 3️⃣ 고려대 HCRL 기반 차량 CAN Bus IDS (핵심 성과)
 - **Performance:** **Abnormal Recall 1.00 (공격 탐지율 100%)** / Accuracy 96%
@@ -67,8 +68,7 @@ Building anomaly detection systems from Industrial AI to Cybersecurity and In-Ve
 > *설명: 59만 건의 대규모 데이터를 활용, 미탐율 0% 달성 및 **7KB 초경량 모델** 구현 최적화.*
 
 
-<img width="445" height="382" alt="559255233-2885f2b3-b68f-46db-bfd9-d4a12b698f2f" src="https://github.com/user-attachments/assets/035c4520-42cc-4893-b4cc-e496b1834e20" />
-
+<img width="556" height="431" alt="17755523449614867713607567559329" src="https://github.com/user-attachments/assets/6b60f5f5-44f4-4644-bb43-e47eeaeafc81" />
 
 
 ## 📧 Contact

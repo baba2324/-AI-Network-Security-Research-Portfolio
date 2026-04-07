@@ -65,7 +65,17 @@ Building anomaly detection systems from Industrial AI to Cybersecurity and In-Ve
 
 ### 3️⃣ 고려대 HCRL 기반 차량 CAN Bus IDS (핵심 성과)
 - **Performance:** **Abnormal Recall 1.00 (공격 탐지율 100%)** / Accuracy 96%
-<img src="1000044299.png" width="600px">
+
+### 📈 실측 성능 지표 (Performance Metrics)
+> **50만 건 이상의 실제 차량 통신 데이터를 대상으로 한 딥러닝 모델 검증 결과입니다.**
+
+| Metric | Score | 비고 |
+| :--- | :---: | :--- |
+| **Abnormal Recall** | **1.00** | **공격 탐지율 100% (미탐율 0%)** |
+| **Abnormal F1-score** | **0.93** | 공격 탐지 정밀도 및 재현율의 조화 평균 |
+| **Weighted Average F1** | **0.98** | 전체 데이터셋에 대한 종합적인 모델 성능 |
+| **Accuracy** | **96%** | 전체 데이터 분류 정확도 |
+
 > *설명: 59만 건의 대규모 데이터를 활용, 미탐율 0% 달성 및 **7KB 초경량 모델** 구현 최적화.*
 
 

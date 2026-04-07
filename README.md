@@ -29,7 +29,8 @@ Building anomaly detection systems from Industrial AI to Cybersecurity and In-Ve
 ## 🏗️ 핵심 기술 기반: 산업 AI 전문가 반도체 이상 탐지 연구 (성과물)
 > **제조 공정의 미세 결함을 찾아내는 비지도 학습(Unsupervised Learning) 알고리즘 연구 및 구현**
 
--5b8470281b2c" />
+<img width="719" height="560" alt="17755538147627637290549181286425" src="https://github.com/user-attachments/assets/c9c29da9-ff57-4614-9ef9-2c0669d4bff7" />
+
 
 > *설명: 산업 AI 프로젝트 결과물. 실제 결함(69건)을 정밀하게 식별해내며 산업 현장 수준의 모델 성능 확보.*
 

@@ -6,167 +6,76 @@ Building anomaly detection systems from Industrial AI to Cybersecurity and In-Ve
 
 ---
 
-# 🇰🇷 Korean Version
+# 🛡️ AI 기반 보안 이상 탐지 및 도메인 확장 연구 (Domain Transfer)
+> **순천향대학교 정보보호학과 이준용 
+
+---
 
 ## 💡 About Me
+저는 순천향대학교 SW중심대학 사업단과 브레인웍스가 공동 설계한 **[산업 AI 전문가 양성과정 (2주, 60시간)]**을 통해, 실제 산업 현장의 비정형 데이터를 분석하고 **이상 탐지(Anomaly Detection) 모델을 직접 설계/구현한 실전 프로젝트**를 수행했습니다.
 
-저는 1학년 겨울방학 동안 순천향대학교 SW중심대학 사업단과 브레인웍스가 공동 설계한  
-**산업 AI 전문가 양성과정 (2주, 60시간)** 을 통해 이상 탐지(Anomaly Detection) 기술을 학습했습니다.
-
-이 과정에서 산업 데이터 기반 이상 탐지 기술을 바탕으로  
-현재는 **산업 데이터 분석에서 출발하여 사이버 보안과 차량 보안 영역까지 확장하는 연구**를 진행하고 있습니다.
-
-특히 다음과 같은 데이터 환경에서 연구를 진행했습니다.
-
-- 산업 공정 데이터
-- 네트워크 보안 로그
-- 차량 CAN 통신 데이터
-
-이를 기반으로 **실시간 이상 탐지 모델을 설계하고 Edge 환경에서도 동작 가능한 수준까지 최적화했습니다.**
+단순 교육 이수를 넘어, **산업 데이터 분석에서 확보한 핵심 기술**을 사이버 보안(Network) 및 차량 보안(CAN Bus) 영역으로 확장하여 **실시간 탐지 시스템 및 Edge 최적화**까지 성공적으로 완수했습니다.
 
 ---
 
-# 1️⃣ 산업 AI 전문가 과정 (BrainWorks)
-
-## Semiconductor Process Anomaly Detection
-
-Soonchunhyang University Industrial AI Expert Program
-
-제조 공정 시계열 데이터를 활용하여 공정 이상을 탐지하는  
-**LSTM Autoencoder 기반 모델**을 구축했습니다.
-
-### Key Tech
-
-- Time Series Analysis
-- LSTM Autoencoder
-- PyTorch
-
-### Performance
-
-- Recall: 0.93
-- Precision: 0.89
-- F1 Score: 0.91
-- Accuracy: 94%
-
-![Semiconductor Anomaly Detection]
-<img width="719" height="560" alt="Semiconductor Anomaly Detection" src="https://github.com/user-attachments/assets/16fecddb-0540-4a33-bb34-ff6235679390">
-
-### Troubleshooting
-
-초기 모델에서 이상 데이터를 정상으로 인식하는 과적합 문제가 발생했습니다.  
-이를 해결하기 위해 **L1 Regularization**을 적용하여 학습을 안정화했습니다.
+## 🚀 연구 로드맵: "산업 AI 프로젝트에서 실전 보안 최적화까지"
+1. **[기반] 산업 AI 프로젝트:** PCB/반도체 공정 이미지 결함 탐지 (CNN) - **비지도 학습 기반 이상 탐지 모델 완벽 구현**
+2. **[기초 보안] 네트워크 기초:** **NSL-KDD** 기반 이진 분류 (DNN) - Accuracy 96%
+3. **[실전 보안] 네트워크 심화:** **CIC-IDS 2017** 실시간 방어 (Random Forest) - Accuracy 99.99%
+4. **[미래 보안] 차량 IT 보안:** **고려대 HCRL** CAN Bus IDS (MLP & TFLite) - **Recall 1.0 / 7KB**
 
 ---
 
-# 2️⃣ Undergraduate Research
+## 🏗️ 핵심 기술 기반: 산업 AI 전문가 반도체 이상 탐지 연구 (성과물)
+> **제조 공정의 미세 결함을 찾아내는 비지도 학습(Unsupervised Learning) 알고리즘 연구 및 구현**
 
-## Network Security Log Anomaly Detection
+<img width="532" height="451" alt="547102175-491433cd-7f18-494c-8ed8-78db890e6784" src="https://github.com/user-attachments/assets/2a7f51c0-1e7e-4009-be1f-5b8470281b2c" />
 
-산업 AI 이상 탐지 기술을 네트워크 보안 로그 데이터로 확장 적용하여  
-모델의 **도메인 전이(Domain Transfer)** 가능성을 검증했습니다.
+> *설명: 산업 AI 프로젝트 결과물. 실제 결함(69건)을 정밀하게 식별해내며 산업 현장 수준의 모델 성능 확보.*
 
-### Research Focus
-
-- Industrial AI → Cybersecurity Domain Transfer
-- High-dimensional security log processing
-- Robust anomaly detection
-
-![Network Log Graph] <img width="1189" height="1190" alt="17730397607457093785105491626063" src="https://github.com/user-attachments/assets/06f2ae0a-6acb-47b3-81af-2151c7e4ae7c" />
-
-
-
-### Key Challenges
-
-- Memory Explosion → PCA 차원 축소
-- Feature Dimension Mismatch → Zero Padding
-- 데이터 불균형 문제 대응
+- **프로젝트 핵심:** 정상 데이터 중심의 비지도 학습을 통해 미세 이상치(Anomaly Score)를 산출하는 고성능 엔진 구축.
 
 ---
 
-# 🛡️ AI-Powered Real-Time Network Defense System
+## 📐 핵심 기술 1: 고순도 데이터 전처리 8단계 파이프라인
+> **반도체 정밀 데이터 정제 노하우를 보안 데이터셋에 이식하여 데이터 무결성 확보.**
 
-**실시간 네트워크 보안 감시 체계 구축**
+<img width="1927" height="1042" alt="1775551302829" src="https://github.com/user-attachments/assets/520e40e9-4110-4e56-83f7-7400d9abc37d" />
 
-기존의 자동차 보안 연구를 넘어  
-실제 PC 환경에서 작동하는 **실시간 지능형 방어 시스템**을 구축했습니다.
-
-### 🚀 Key Features
-
-**Real-time Monitoring**
-
-- 0.1초 단위 패킷 분석
-- 실시간 네트워크 트래픽 감시
-
-**ML-based Detection**
-
-- Random Forest 기반 침입 탐지 엔진
-- 비정상 접속 및 공격 시도 탐지
-
-**Edge Optimization**
-
-- CPU / RAM 점유율 **1% 미만**
-- 24시간 백그라운드 실행 가능
-
-**One-click Deployment**
-
-- 바탕화면 바로가기 실행
-- 자동 실행 배치 스크립트
-
-### 🛠 Technical Stack
-
-Language
-- Python
-
-Libraries
-- Scikit-learn
-- Scapy
-- Pandas
-
-Deployment
-- Desktop Integrated Defense System
+*(산업 데이터에서 경험한 차원 Mismatch 및 결측치 해결 기법을 보안 데이터에 완벽 적용)*
 
 ---
 
-# 🏆 3️⃣ AI-Car-Hacking-Detection (IDS)
+## 📂 주요 프로젝트 성과 (실측 데이터 기반)
 
-## In-Vehicle CAN Bus Intrusion Detection
+### 1️⃣ NSL-KDD 기반 네트워크 침입 탐지 (DNN)
+- **Performance:** **Accuracy 96% / F1-Score 0.96**
+<img width="449" height="386" alt="다운로드" src="https://github.com/user-attachments/assets/cbb72a19-cee6-4e74-bf62-4fdf842cab16" />
 
-Korea University **HCRL Car-Hacking Dataset**을 활용하여  
-차량 내부 CAN 통신 공격을 탐지하는 **딥러닝 기반 IDS**를 구축했습니다.
+> *설명: 1.2만 건의 데이터를 활용하여 딥러닝 기반 실전 이진 분류 성공.*
 
-### Attack Types
+### 2️⃣ CIC-IDS 2017 기반 실시간 IPS 구축 (Random Forest)
+- **Performance:** **Accuracy 99.99%** (PortScan 공격 탐지 특화)
+- **특징:** Scapy 패킷 분석과 Windows API를 연동한 **실시간 공격 IP 자동 차단 시스템** 구현.
 
-- DoS
-- Fuzzy
-- Spoofing
 
-### Performance
+<img width="1189" height="1190" alt="17755516995672928935286921939997" src="https://github.com/user-attachments/assets/42865896-0fba-497f-b9fc-a359762b3777" />
 
-- Recall: 1.00
-- Precision: 0.95
-- F1 Score: 0.97
-- Accuracy: 96%
+### 3️⃣ 고려대 HCRL 기반 차량 CAN Bus IDS (핵심 성과)
+- **Performance:** **Abnormal Recall 1.00 (공격 탐지율 100%)** / Accuracy 96%
+<img src="1000044299.png" width="600px">
+> *설명: 59만 건의 대규모 데이터를 활용, 미탐율 0% 달성 및 **7KB 초경량 모델** 구현 최적화.*
 
-500,000건 이상의 차량 통신 데이터를 대상으로 실험을 수행했습니다.
 
-![Car Hacking Detection]
+<img width="445" height="382" alt="559255233-2885f2b3-b68f-46db-bfd9-d4a12b698f2f" src="https://github.com/user-attachments/assets/035c4520-42cc-4893-b4cc-e496b1834e20" />
 
-<img width="556" height="431" alt="17733483773706326758692551498192" src="https://github.com/user-attachments/assets/754169d4-8c65-40d6-b045-cf663377b0f5" />
 
-## Edge Optimization
 
-실제 차량 환경을 고려하여 **초경량 모델 구조**를 설계했습니다.
-
-### Lightweight MLP Architecture
-
-16 → 8 → 1
-
-### Optimization
-
-- Int8 Quantization
-- Model Size: ~7KB
-
-저사양 **MCU 환경에서도 실행 가능한 IDS 모델 구조입니다.**
+## 📧 Contact
+- **Affiliation:** Soonchunhyang Univ. Information Security
+- 
+**GitHub**  
+https://github.com/baba2324
 
 ---
 

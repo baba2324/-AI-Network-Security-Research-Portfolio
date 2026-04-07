@@ -51,7 +51,8 @@ Building anomaly detection systems from Industrial AI to Cybersecurity and In-Ve
 
 ### 1️⃣ NSL-KDD 기반 네트워크 침입 탐지 (DNN)
 - **Performance:** **Accuracy 96% / F1-Score 0.96**
-<img width="449" height="386" alt="다운로드" src="https://github.com/user-attachments/assets/cbb72a19-cee6-4e74-bf62-4fdf842cab16" />
+<img width="549" height="431" alt="다운로드" src="https://github.com/user-attachments/assets/0b764f37-8eaa-4c79-a5d9-87e736e39f66" />
+
 
 > *설명: 1.2만 건의 데이터를 활용하여 딥러닝 기반 실전 이진 분류 성공.*
 
